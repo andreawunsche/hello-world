@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hi,
+
+this is Andrea. I am new to Github, so be patient. 
+
+
+
